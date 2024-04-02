@@ -1,0 +1,1 @@
+console.log("Fire-Fox Logo is on screen")
